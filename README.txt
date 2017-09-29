@@ -1,0 +1,1 @@
+This directory has all the machine learning projects adn assignments i have worked on.
