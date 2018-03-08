@@ -1,6 +1,6 @@
 The code is written in python 3.5
 
-Explanation fo rthe files:
+Explanation for the files:
 1) The NeuralNetwork folder has the neuralnetwork classifier
 2) avg_perceptron.py has the average perceptron classifier.
 3) Boosted_decision_Trees.py has the boosted decision trees classifier.
